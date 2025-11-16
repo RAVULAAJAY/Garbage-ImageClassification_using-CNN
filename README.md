@@ -47,7 +47,7 @@ It extracts image features and predicts the correct garbage category.
 
 👉 *(Add accuracy and loss graphs here)*
 
-**\[Images/MODEL  Acuracy Loss.png]**
+**\[https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/aa1b18d1537cfd695308b83417dfc68cc5cdf996/Images/MODEL%20%20Acuracy%20Loss.png]**
 
 ## 📉 Confusion Matrix
 
