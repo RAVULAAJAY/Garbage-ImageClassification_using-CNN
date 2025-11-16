@@ -57,7 +57,8 @@ It extracts image features and predicts the correct garbage category.
 
 You can view the final accuracy, loss, and evaluation metrics in the
 notebook.\
-(Add your exact accuracy manually if needed.)
+![image alt](https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/c22d0fab987da9f8c862519c72ebe5b374dd8de4/Images/preclass%20Acuracy.png)
+
 
 ## ▶️ How to Run
 
