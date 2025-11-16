@@ -47,7 +47,7 @@ It extracts image features and predicts the correct garbage category.
 
 👉 *(Add accuracy and loss graphs here)*
 
-**\[Add Screenshot Here\]**
+**\[Images/MODEL  Acuracy Loss.png\]**
 
 ## 📉 Confusion Matrix
 
