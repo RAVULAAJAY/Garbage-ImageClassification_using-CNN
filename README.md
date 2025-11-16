@@ -45,7 +45,8 @@ It extracts image features and predicts the correct garbage category.
 
 ## 📊 Training & Validation Graphs
 
-👉 *(Add accuracy and loss graphs here)*
+![image alt](https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/671bdf718ae33883dbb6301c2f42c536db286225/Images/predicted%20Label.png)
+
 
 ![image alt](https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/aa1b18d1537cfd695308b83417dfc68cc5cdf996/Images/MODEL%20%20Acuracy%20Loss.png)
 
