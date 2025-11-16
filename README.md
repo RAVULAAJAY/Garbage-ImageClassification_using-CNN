@@ -37,12 +37,6 @@ The CNN model consists of:
 
 It extracts image features and predicts the correct garbage category.
 
-## 🖼️ Dataset Sample Images
-
-👉 *(Add your dataset sample images below)*
-
-**\[Add Screenshot Here\]**
-
 ## 📊 Training & Validation Graphs
 
 ![image alt](https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/671bdf718ae33883dbb6301c2f42c536db286225/Images/predicted%20Label.png)
