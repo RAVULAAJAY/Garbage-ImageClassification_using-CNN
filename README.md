@@ -51,7 +51,7 @@ It extracts image features and predicts the correct garbage category.
 
 ## 📉 Confusion Matrix
 
-https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/d44a9faa674f30cbbc786daae0738cb67faa3998/Images/confusion%20matrix.png
+![image alt](https://github.com/RAVULAAJAY/Garbage-ImageClassification_using-CNN/blob/d44a9faa674f30cbbc786daae0738cb67faa3998/Images/confusion%20matrix.png)
 
 ## ✔️ Final Results
 
